@@ -6,7 +6,6 @@ ul {
   padding: 0px;
   margin: 0px;
   list-style: none;
-
 }
 
 img {
@@ -29,3 +28,6 @@ img {
   margin: 0 20px;
 }
 
+.slide {
+  display: flex;
+}
